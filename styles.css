@@ -1,0 +1,78 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.biggersquare {
+
+  width: 400px;
+  height: 300px;
+
+}
+
+.html5 > h4 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.rigoberto > p { 
+    padding: 0px;
+    margin: 0px;
+    font-size: medium;
+}
+
+
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+.header-left {
+    display: flex;
+}
+
+.header-right {
+    display: flex;
+    font-size: 30px;
+    float: right;
+    margin-left: 73%;
+
+ }
+
+.img-html {
+    font-size: 27px;
+    padding-right: 5px;
+    padding-top: 3px;
+}
+
+
+
+.image > img {
+    width: 400px; height: 250px; 
+}
+
+
+.footer {
+    display: flex;
+    font-size: 25px;
+    padding-top: 5px;
+
+
+}
+
+.foot-left {
+    padding-left: 5px;
+    
+}
+
+.foot-right{
+    margin-left: 70%;
+
+}
+
+.description {
+    margin-top: 0%;
+    text-align: justify;
+}
